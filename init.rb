@@ -1,5 +1,5 @@
 require 'redmine'
-require_relative "/lib/wiki_issue_fields"
+require_relative "lib/wiki_issue_fields"
 
 Redmine::Plugin.register :redmine_wiki_issue_fields do
   name 'Redmine Wiki Issue fields plugin'
