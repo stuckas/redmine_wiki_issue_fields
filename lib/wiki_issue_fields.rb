@@ -2,7 +2,7 @@ require 'redmine'
 require 'application_helper'
 require 'issues_helper'
 
-module WikiIssueFieldsMacro
+module WikiIssueFields
 
   ##############################################################################
 
